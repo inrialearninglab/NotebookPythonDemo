@@ -1,2 +1,2 @@
 # NotebookPythonDemo
-Galerie de notebooks Python pour montrer des exemples de notebook pour la pédagogie
+Galerie de notebooks Python pour montrer des exemples de notebooks avec du codage en Python pour la pédagogie
