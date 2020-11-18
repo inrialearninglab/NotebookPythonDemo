@@ -2,8 +2,8 @@
 
 Galerie de notebooks Python pour montrer des exemples de notebooks avec du codage en Python pour la pédagogie
 ## Liens vers la démo
-- **Visualiser les notebooks :** https://nbviewer.jupyter.org/github/inrialearninglab/NotebookPythonDemo/tree/master/
-- **Manipuler les notebooks :** https://mybinder.org/v2/gh/inrialearninglab/NotebookPythonDemo/master
+- **Visualiser les notebooks :** [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/inrialearninglab/NotebookPythonDemo/tree/master/)
+- **Manipuler les notebooks :**  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inrialearninglab/NotebookPythonDemo/master) 
 
 ## Sources
 Ces notebooks ont été recopiés depuis divers sources pour vous montrer comment certains enseignants utilisent les notebooks pour enseigner Python :
